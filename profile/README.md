@@ -57,19 +57,6 @@ Trasformare il settore sanitario attraverso soluzioni software innovative, rende
 - LinkedIn: [Sparkware](https://linkedin.com/company/SparkwareIT)
 - GitHub: [Sparkware](https://github.com/SparkwareIT)
 
-## Team
-
-Il nostro team è composto da professionisti esperti nel settore sanitario e tecnologico:
-
-### Sviluppo
-- **Michele Greco** - Frontend Engineer
-- **Alfonso Maria Marzano** - Backend & Automation Engineer
-- **Francesca Terravecchia** - UI/UX Engineer
-
-### Operations
-- **Alfonso Maria Marzano** - Head of Operations
-- **Marcello di Donato Elia** - IaC Specialist
-
 ## Certificazioni
 - GDPR Compliance
 - NIS2 FSD Compliance
